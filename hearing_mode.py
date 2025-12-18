@@ -122,7 +122,7 @@ class HearingModeWindow:
             messagebox.showwarning("Texto Vacío", "Escribe texto para traducir")
             return
         
-        self.current_gloss_label.config(text="Traduciendo con Gemini...")
+        self.current_gloss_label.config(text="Traduciendo ...")
         
         def translate_bg():
             glosses = natural_text_to_glosses(text)
