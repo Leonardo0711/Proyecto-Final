@@ -12,12 +12,12 @@ Aplicación de escritorio profesional para traducción bidireccional de Lengua d
 - ✅ Toggle reproducción de audio (TTS)
 - ✅ Panel de glosas colapsable
 - ✅ Traducción automática al detener cámara
-- ✅ Traducción con Google Gemini AI
+- ✅ Traducción
 
 ### 🗣️ Modo Oyente (Texto/Voz → Señas)
 - ✅ Entrada de texto manual
 - ✅ **Dictado por voz** (Speech Recognition)
-- ✅ Traducción a glosas con Gemini
+- ✅ Traducción a glosas 
 - ✅ Reproducción automática de videos
 - ✅ Videos integrados en interfaz (no ventanas externas)
 - ✅ Layout responsive de 2 columnas
